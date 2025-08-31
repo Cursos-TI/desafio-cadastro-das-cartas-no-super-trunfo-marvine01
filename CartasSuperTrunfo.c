@@ -291,6 +291,7 @@ int main(void) {
 
     return 0;
 }
+
 #include <stdio.h>
 
 // Estrutura para armazenar os dados de cada carta
@@ -379,8 +380,5 @@ int main(void) {
 
     return 0;
 }
-
-
-
 
 
