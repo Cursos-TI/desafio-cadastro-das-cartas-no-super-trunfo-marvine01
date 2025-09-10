@@ -163,7 +163,7 @@ int main(void) {
 
     // Cálculos da Carta 2
     carta2_densidade = carta2_populacao / carta2_area;
-    carta2_pibPerCapita = (carta2_pib * 1e9) / carta2_populacao;
+    carta2_pibPerCapita = (carta2_pib * 1e9) / carta2_populacao 
 
     // Exibição Carta 1
     printf("\n===== CARTA 1 =====\n");
